@@ -9,9 +9,7 @@ Originally developed for a safety-critical initiative at Cruise, this method aim
 - 100% automation with zero triage
 
 ## 📂 Contents
-- `Cruise_Physics_Diagnostics.pdf` – Public-facing version of the presentation
-- `diagrams/` – Architecture and logic diagrams
-- `examples/` – Real-world cases mapped to constraints
+- `Rick Hudson History and Prior Work Presentation.pdf` – Public-facing version of the presentation
 
 ## 🎯 Highlights
 - 5× improvement in long-tail road issue detection
